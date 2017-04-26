@@ -2,6 +2,7 @@
  * Start Bootstrap - One Page Wonder (http://startbootstrap.com/template-overviews/one-page-wonder)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ https://registrar.okstate.edu/sites/default/files/slideshow-images/070617_library_10.png
  */
 
 body {
@@ -15,7 +16,7 @@ body {
 }
 
 header.masthead {
-    background: url('https://registrar.okstate.edu/sites/default/files/slideshow-images/070617_library_10.png') no-repeat center center scroll;
+    background: url('http://touthang.info/senior2/images/IMG_0926.JPG') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
